@@ -1,0 +1,4 @@
+fastcore
+diffusers
+transformers
+
